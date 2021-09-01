@@ -1,0 +1,3 @@
+flask
+webdriver_manager
+selenium
